@@ -1,1 +1,2 @@
-# car-racong-game-c-36
+# synchronousBallMovement
+Ball moving synchronously
